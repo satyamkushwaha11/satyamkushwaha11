@@ -11,7 +11,7 @@ Hello, I'm Satyam kushwaha
 ## ☎️ CONTACT ME
 
 [![Linkedin Badge](https://img.shields.io/badge/-satyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satyam-kushwaha-783573205/)](https://www.linkedin.com/in/satyam-kushwaha-783573205/)
-[![Gmail Badge](https://img.shields.io/badge/-satyam2120@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satyam21@navgurukul.org)](mailto:ankit20@navgurukul.org)
+[![Gmail Badge](https://img.shields.io/badge/-satyam21@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satyam21@navgurukul.org)](mailto:ankit20@navgurukul.org)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-mkankit07-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://www.instagram.com/mkankit07/)](https://www.instagram.com/mkankit07/) -->
 <br />
 
@@ -33,7 +33,7 @@ Hello, I'm Satyam kushwaha
 ### Database
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248) -->
-![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MYSQL&logoColor=336791)\
+![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MYSQL&logoColor=336791)
 
 ### API
 
