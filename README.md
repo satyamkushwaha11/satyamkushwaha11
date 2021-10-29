@@ -21,7 +21,7 @@ Hello, I'm Satyam kushwaha
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
+<!-- [CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 ### Backend
@@ -37,7 +37,7 @@ Hello, I'm Satyam kushwaha
 
 ### API
 
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)
+![Request Api](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)
 
 ### Package managers
 
@@ -49,5 +49,5 @@ Hello, I'm Satyam kushwaha
 
 ### Deployment services
 
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=Netlify%20AWS&logoColor=FFFFFF)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku%20AWS&logoColor=FFFFFF)
+<!-- [Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=Netlify%20AWS&logoColor=FFFFFF)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku%20AWS&logoColor=FFFFFF)-->
