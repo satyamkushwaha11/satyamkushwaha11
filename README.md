@@ -51,7 +51,3 @@ Hello, I'm Satyam kushwaha
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 
-### Deployment services
-
-<!-- [Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=Netlify%20AWS&logoColor=FFFFFF)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku%20AWS&logoColor=FFFFFF)-->
