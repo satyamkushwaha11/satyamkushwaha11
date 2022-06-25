@@ -11,7 +11,7 @@ Hello, I'm Satyam kushwaha
 ## ☎️ CONTACT ME
 
 [![Linkedin Badge](https://img.shields.io/badge/-satyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satyam-kushwaha-783573205/)](https://www.linkedin.com/in/satyam-kushwaha-783573205/)
-[![Gmail Badge](https://img.shields.io/badge/-satyam21@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satyam21@navgurukul.org)](mailto:ankit20@navgurukul.org)
+[![Gmail Badge](https://img.shields.io/badge/-satyam21@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satyamkushwaha1101@gmail.com)](mailto:ankit20@navgurukul.org)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-mkankit07-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://www.instagram.com/mkankit07/)](https://www.instagram.com/mkankit07/) -->
 <br />
 
