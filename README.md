@@ -7,7 +7,8 @@ Hello, I'm Satyam kushwaha
 
 ## 👨🏾‍💻 ABOUT ME
 
-<p>satyam is an Fresher Web Developer. have knowledge  front-end(HTML5, CSS3, Javascript,React and Nextjs) to back-end(Node Js,Express,MongoDB and mysql).</p>
+<p>I am a MERN STACK Web Developer.</p>
+
 ## ☎️ CONTACT ME
 
 [![Linkedin Badge](https://img.shields.io/badge/-satyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satyam-kushwaha-783573205/)](https://www.linkedin.com/in/satyam-kushwaha-783573205/)
