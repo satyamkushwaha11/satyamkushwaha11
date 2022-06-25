@@ -26,6 +26,7 @@ Hello, I'm Satyam kushwaha
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React js](https://img.shields.io/badge/-Reactjs-000000?style=flat&logo=React)
 ![next js](https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=Nextjs)
+![boostrap](https://img.shields.io/badge/%20-Boostrap-orange)
 
 
 
