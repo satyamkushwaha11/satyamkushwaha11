@@ -7,7 +7,7 @@ Hello, I'm Satyam kushwaha
 
 ## 👨🏾‍💻 ABOUT ME
 
-<p>I am a MERN STACK Web Developer.</p>
+<p>I am a Full stack Web Developer.</p>
 
 ## ☎️ CONTACT ME
 
