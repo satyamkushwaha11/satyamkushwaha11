@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-Hello, I'm Satyam kushwaha
+Hello, I'm Satyam kushwaha.
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 <img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70">
@@ -12,7 +12,7 @@ Hello, I'm Satyam kushwaha
 ## ☎️ CONTACT ME
 
 [![Linkedin Badge](https://img.shields.io/badge/-satyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satyam-kushwaha-783573205/)](https://www.linkedin.com/in/satyam-kushwaha-783573205/)
-[![Gmail Badge](https://img.shields.io/badge/-satyam21@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satyamkushwaha1101@gmail.com)](mailto:ankit20@navgurukul.org)
+[![Gmail Badge](https://img.shields.io/badge/-satyamkushwaha1101@gmail.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satyamkushwaha1101@gmail.com)](mailto:ankit20@navgurukul.org)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-mkankit07-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://www.instagram.com/mkankit07/)](https://www.instagram.com/mkankit07/) -->
 <br />
 
